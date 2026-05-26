@@ -38,3 +38,6 @@ The `ausgrid_exploration.ipynb` notebook is optional and can be used to inspect 
 
 # Disclaimer about the data
 The experiments in this repository use the Ausgrid Solar Home Electricity Data and irradiance/weather data from Solcast. If the raw Ausgrid data files or Solcast-derived merged file are not included in your local checkout, obtain them from the original data providers and place the processed files under `data/ausgrid/` before running the notebooks.
+
+# Credit
+We would like to thank the [data exploration repo](https://github.com/pierre-haessig/ausgrid-solar-data) by pierre-haessig for helping us getting started with the Ausgrid dataset faster.
