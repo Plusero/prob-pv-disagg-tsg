@@ -13,7 +13,7 @@ This repository contains the code for the paper ["Probabilistic Disaggregation o
 1. Create a venv with `python -m venv env_name`.
 2. Activate the venv with `source env_name/bin/activate`.
 3. Install the dependencies with `pip install -r requirements.txt`.
-4. Put the Ausgrid Solar Home Electricity Data [Ausgrid Solar Home Electricity Data](https://www.tandfonline.com/doi/abs/10.1080/14786451.2015.1100196) CSV files under the path `data/ausgrid/`. The notebooks expect the following raw files:
+4. Put the [Ausgrid Solar Home Electricity Data](https://www.tandfonline.com/doi/abs/10.1080/14786451.2015.1100196) CSV files under the path `data/ausgrid/`. The notebooks expect the following raw files:
    1. `2010-2011 Solar home electricity data.csv`.
    2. `2011-2012 Solar home electricity data.csv`.
    3. `2012-2013 Solar home electricity data.csv`.
