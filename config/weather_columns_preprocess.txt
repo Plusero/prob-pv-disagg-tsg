@@ -1,0 +1,9 @@
+air_temp
+precipitation_rate
+wind_speed_10m
+ghi
+ghi_loc2
+ghi_loc3
+azimuth
+zenith
+cloud_opacity

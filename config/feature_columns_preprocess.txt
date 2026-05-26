@@ -1,0 +1,11 @@
+air_temp
+precipitation_rate
+wind_speed_10m
+ghi
+ghi_loc2
+ghi_loc3
+total_net_norm
+azimuth
+zenith
+cos_HoD
+sin_HoD
