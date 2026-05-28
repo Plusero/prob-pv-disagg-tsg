@@ -21,6 +21,7 @@ This repository contains the code for the paper ["Probabilistic Disaggregation o
    1. `ausgrid_cluster5_meteo.csv`.
    2. `ausgrid_meteo_location2_2010_2012.csv`.
    3. `ausgrid_meteo_location3_2011_Jan.csv`.
+   4. You can download the Solcast data using the script `fetch_from_solcast_own_api_key.py` in the `modules/` folder. Note that you need to place your own Solcast API key in the script.
 6. Run the following Jupyter notebooks in the order below, to obtain the results.
    1. `ausgrid_load_2010_2011.ipynb`.
    2. `ausgrid_load_2011_2012.ipynb`.
